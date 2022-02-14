@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bloom/Bloom.iml" filepath="$PROJECT_DIR$/Bloom/Bloom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/buloo.iml" filepath="$PROJECT_DIR$/.idea/buloo.iml" />
+    </modules>
+  </component>
+</project>
